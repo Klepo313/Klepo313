@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klepo313
-- 👀 I’m interested in web design & development
-- 🌱 I’m currently learning web development
+- 👀 //
+- 🌱 //
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email: antonio.klepo1@gmail.com
 <!---
